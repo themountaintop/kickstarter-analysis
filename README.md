@@ -19,8 +19,6 @@ Campaigns with funding goals between >$0 and $4999 have the greatest chance at s
 
 ![Outcomes_Based_on_Goal](https://user-images.githubusercontent.com/58227052/187268199-6b7e0268-fd92-4673-9d6d-d6073364718f.png)
 
-### Challenges and Difficulties Encountered
-
 ## Results
 
 From this analysis we can conclude that the best time to fund a play is between March and May and that the goal amounts up to approximately $5,000 have the greatest chance at success. 
